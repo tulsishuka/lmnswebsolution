@@ -53,10 +53,7 @@ const Page = () => {
               {/* Header */}
               <div className="flex flex-col md:flex-row justify-between gap-10 mb-10 md:mb-12">
                 <div className="md:w-2/3">
-                  <p className="text-gray-400 mb-2 text-sm sm:text-base font-medium">
-                    {project.client}
-                  </p>
-
+                
                   <h2 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 sm:mb-6 tracking-tight leading-tight">
                     {project.title}
                   </h2>
