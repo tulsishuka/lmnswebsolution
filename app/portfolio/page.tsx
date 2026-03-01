@@ -33,12 +33,25 @@ const projects = [
     mediaSrc: "/images/i4.mp4",
   },
   
-   {
-    title: "VibeFitZone – Gym & Fitness Website",
-    description:"A modern responsive gym and fitness website inspired by a premium template design. Built to showcase bold visuals strong call-to-action sections and structured service layouts tailored for fitness studios and personal trainers Designed with a focus on clean UI, mobile responsiveness, and conversion-driven layout.",
-    services: ["Responsive Web Design","Conversion Optimization","UX Design", "UI Design"],
-    mediaSrc: "/images/i.mp4",
-  },
+  
+  {
+  title: "VibeFitZone – Gym & Fitness Website",
+  description: "A high-converting website designed to help local gyms attract new members and increase walk-in inquiries. Built with strong call-to-actions, transformation showcases, pricing clarity, and WhatsApp integration to turn visitors into paying clients. The layout focuses on trust-building sections, mobile-first responsiveness, and a conversion-driven user journey tailored for fitness studios and personal trainers.",
+  services: ["Responsive Web Design","Conversion Optimization","UX Strategy","UI Design"],
+  mediaSrc: "/images/i.mp4",
+},
+{
+  title: "DreamHub – Gym & Fitness Website",
+  description: "A results-focused gym website created to improve online visibility and generate consistent membership leads. Designed with clear membership plans, trainer highlights, testimonials, and structured service sections to reduce manual inquiries and boost sign-ups. Optimized for mobile users and local discovery to help gyms compete professionally in their area.",
+  services: ["Responsive Web Design","Lead Generation Strategy","UX Design","UI Design"],
+  mediaSrc: "/Navbar/v1.mp4",
+},
+{
+  title: "Gymex – Gym & Fitness Website",
+  description: "A conversion-driven fitness website crafted to position gyms as premium and trustworthy brands. Featuring bold hero sections, offer-based CTAs, client transformations, and easy contact options to increase engagement and trial bookings. Designed to work as a 24/7 digital salesperson that helps gym owners grow their membership base.",
+  services: ["Responsive Web Design","Conversion Optimization","Brand Positioning","UI Design"],
+  mediaSrc: "/Navbar/v2.mp4",
+},
 ];
 
 const Page = () => {
